@@ -1,0 +1,2 @@
+Kita mencoba membuat database sederhana
+dan rapi
