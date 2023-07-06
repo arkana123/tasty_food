@@ -1,2 +1,3 @@
 Kita mencoba membuat database sederhana
 dan rapi
+Dan harus dapat dipahami
